@@ -45,7 +45,7 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 | Repositório                                                                       | Descrição                                                  | 
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
-|[Documentação] | Elaborar um script com dois players, aplicar dano, utilizar armadura.
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/main/Exercicios/GameArmor)| Elaborar um script com dois players, aplicar dano, vida e  utilizar armadura.
 
 ![debug](https://user-images.githubusercontent.com/107582204/208121893-3006e343-9325-4c5a-8110-c82bf98d93ce.jpeg)
 ![armor](https://user-images.githubusercontent.com/107582204/208121911-716292c9-1056-4f41-aa0d-757115d70f2f.jpeg)
